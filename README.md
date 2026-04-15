@@ -4,7 +4,7 @@ I am a passionate Mechanical Engineer and a Master's student in Digital Engineer
 
 ## 🚀 Skills
 - **Technical Tools**: Solidworks, Autodesk Fusion 360, PTC Creo, ANSYS Workbench, ANSYS Fluent, MS Office
-- **Programming Languages**: Python, MATLAB, Simulink
+- **Programming Languages**: Python, C++, MATLAB, Simulink
 - **Languages**: English (C1), German (B1), Hindi, Marathi
 
 ## 🎓 Education
