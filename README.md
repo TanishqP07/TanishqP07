@@ -15,7 +15,6 @@ I am a passionate Mechanical Engineer and a Master's student in Digital Engineer
 ## 💼 Work Experience
 - **Project Intern** *(Greaves Cotton Limited, 2022)*: Conducted engine performance and emissions testing using intake manifold water injection systems.
 - **Trainee** *(Sangale Agro Food Processing Pvt. Ltd., 2022)*: Improved industrial efficiency in an agricultural food processing plant.
-- **Intern** *(Virbhadra Engineering Works, 2019)*: Gained hands-on experience in manufacturing processes for machine tools, fixtures, and jigs.
 
 ## 🌟 Featured Projects
 - **[Traffic Light Classifier](#)**: Built a computer vision-based classifier for traffic lights as part of Udacity's Nanodegree program.
